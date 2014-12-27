@@ -6,8 +6,8 @@ A barebone example for running selenium tests on cucumber-jvm
 
 Git:
 
-    git clone https://github.com/cucumber/cucumber-java-skeleton.git
-    cd cucumber-java-skeleton
+    git clone https://github.com/machzqcq/cucumber-jvm_sample.git
+    cd cucumber-jvm_sample
 
 ## Use Maven
 
