@@ -1,6 +1,6 @@
 # cucumber-jvm selenium example
 
-Read about cucumber-jvm intro on seleniumframework.com [http://www.seleniumframework.com/cucumber-jvm-2/what-is-cucumber-jvm/]
+Read about cucumber-jvm intro on [seleniumframework.com] (http://www.seleniumframework.com/cucumber-jvm-2/what-is-cucumber-jvm/)
 
 # cucumber-jvm selenium example
 
