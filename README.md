@@ -1,5 +1,9 @@
 # cucumber-jvm selenium example
 
+Read about cucumber-jvm intro on seleniumframework.com [http://www.seleniumframework.com/cucumber-jvm-2/what-is-cucumber-jvm/]
+
+# cucumber-jvm selenium example
+
 A barebone example for running selenium tests on cucumber-jvm
 
 ## Get the code
