@@ -1,4 +1,4 @@
-# cucumber-jvm selenium example
+# selenium framework website
 
 Read about cucumber-jvm intro on [seleniumframework.com] (http://www.seleniumframework.com/cucumber-jvm-2/what-is-cucumber-jvm/)
 
